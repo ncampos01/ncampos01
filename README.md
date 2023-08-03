@@ -6,8 +6,7 @@
       <li><b>osTicket (Help Desk Ticketing System)</b>
           <ul><!--Start of nested list-->
               <li><a href="https://github.com/ncampos01/Osticket-prereq-and-installation"> osTicket: Prereq installation and installation of osTicket </a>
-              <li><a href="https://github.com/ncampos01/post-install-config"> osTicket: Post-Installation Configuration </a>
-              <li><a href="https://github.com/ncampos01/ticket-lifecycle"> osTicket: Ticket Lifecycle Examples </a></li>
+              <li><a href="https://github.com/ncampos01/post-install-config"> osTicket: Post-Installation Configuration </a></li>
           </ul><!--End of nested list-->
       </li>
 </ul><!--End of main list-->
