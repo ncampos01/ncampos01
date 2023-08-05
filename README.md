@@ -1,4 +1,4 @@
-<h1>Hello,  I'm Nestor, an <a href="https://www.linkedin.com/in/nestor-campos-b9907a286/">IT Professional</a>
+<h1>Hello,  I'm Nestor, an <a href="https://www.linkedin.com/in/nestor-campos-b9907a286/"> IT Professional </a></h1>
 
 <h2>💻 Information Technology Projects:</h2>
 
